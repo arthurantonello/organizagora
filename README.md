@@ -91,7 +91,7 @@ Pressione Win + R e procure por shell:startup
 Todas as operações são registradas em `organizador_log.txt` no mesmo diretório do script. O log inclui timestamps, tipo de mensagem (INFO, SUCESSO, ERRO, ALERTA) e detalhes das ações.
 
 ## 🤝 Contribuição
-# Adoraria que, caso tenha ideias de como melhorar, que participe desse projeto!
+### Adoraria que, caso tenha ideias de como melhorar, que participe desse projeto!
 
 1. Fork este repositório.
 2. Crie uma branch para sua feature ou correção: `git checkout -b feature/nova-categoria`.
