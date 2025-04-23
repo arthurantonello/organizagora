@@ -1,6 +1,6 @@
 # Organizagora - Organizador de Downloads em Python
 
-Quem nunca perdeu alguns minutos procurando por um arquivo na pasta Downloads — aquela que vira uma verdadeira bagunça com o tempo? Arquivos acumulam, nomes se misturam, e encontrar algo específico pode virar um desafio.
+Quem nunca perdeu alguns minutos procurando por um arquivo na pasta Downloads, aquela que vira uma verdadeira bagunça com o tempo? Arquivos acumulam, nomes se misturam, e encontrar algo específico pode virar um desafio.
 
 Esse projeto visou exatamente solucionar isso, trata-se de um script em Python que organiza automaticamente os arquivos das suas pastas, inicialmente idealizado para a pastas **Downloads**, que como sabemos costuma ficar um caos, em subpastas baseadas no tipo de arquivo (vídeos, imagens, documentos etc.), adaptável para qualquer outra pasta. Também monitora a pasta em tempo real para mover novos arquivos conforme são criados.
 
